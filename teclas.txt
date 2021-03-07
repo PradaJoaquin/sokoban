@@ -1,0 +1,16 @@
+Up = NORTE
+Left = OESTE
+Down = SUR
+Right = ESTE
+
+w = NORTE
+a = OESTE
+s = SUR
+d = ESTE
+
+p = PISTA
+
+r = REINICIAR
+BackSpace = DESHACER
+
+Escape = SALIR
