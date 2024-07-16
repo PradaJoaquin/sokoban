@@ -31,7 +31,7 @@ Se utilizó la librería provista por la cátedra [Gamelib](https://github.com/d
 
 Primero es necesario descargar [python](https://www.python.org/downloads/) si aún no fue descargado.
 
-Luego, una vez descargado este repositorio, hay que ejecutar el siguiente comando en la consola, sobre la carpeta descargada, para iniciar el juego.
+Luego, una vez descargado este repositorio, hay que ejecutar el siguiente comando en la consola dentro de la carpeta descargada, para iniciar el juego:
 
 ```
 python3 main.py
