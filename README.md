@@ -8,6 +8,8 @@ Se utilizó la librería provista por la cátedra [Gamelib](https://github.com/d
 
 [Sokoban](https://es.wikipedia.org/wiki/Sokoban) es un juego de *puzzles* lanzado en 1984. El objetivo del juego es empujar las cajas hasta su lugar correcto dentro de un reducido almacén, intentado lograrlo con el número mínimo de empujes y de pasos. Las cajas se pueden empujar solamente, y no tirar de ellas, y sólo se puede empujar una caja a la vez. Parece fácil, pero los niveles van desde muy fáciles a extremadamente difíciles, y algunos lleva horas e incluso días resolverlos.
 
+![sokoban](https://github.com/user-attachments/assets/46eb26dd-3410-4f00-8f7b-caa37197422d)
+
 # Controles
 
 - Movimiento del jugador:
